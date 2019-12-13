@@ -1,0 +1,9 @@
+name: 'Android Emulator'
+description: 'Run UI tests on Android emulator'
+author: 'Veaceslav Gaidarji <veaceslav.gaidarji@gmail.com>'
+branding:
+  icon: 'smartphone'
+  color: 'green'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
