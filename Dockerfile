@@ -1,4 +1,4 @@
-FROM vgaidarji/docker-android-emulator:v1.0.1
+FROM vgaidarji/docker-android-emulator:adjust-emulator-commands
 
 ###################
 # GitHub Action description
