@@ -2,6 +2,8 @@
 
 A GitHub Action for running Android UI tests on Android emulator.
 
+:warning: Currently having an issue with emulator not being started on linux, read more -> https://github.com/vgaidarji/docker-android/issues/11/.
+
 # Usage
 
 ```yml
